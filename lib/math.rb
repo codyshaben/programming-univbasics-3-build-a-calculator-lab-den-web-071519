@@ -16,7 +16,7 @@ end
 
 def modulo(num1, num2)
   num1 / num2 
-  num1
+  num1.divmod
 end
 
 def square_root(num)
